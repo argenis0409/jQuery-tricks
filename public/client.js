@@ -1,6 +1,5 @@
 $(function() {
 
-   
         $(".add-item").on('click', function(event) {
               event.preventDefault();
           var listItem = $('.item-input').val()
